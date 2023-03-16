@@ -1,0 +1,46 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(121, 162, 177);
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+
+.input{
+    text-align: center;
+    margin: 100px;
+}
+
+input[type="text"] {
+    height: 50px;
+    width: 100 px;
+    background: floralwhite;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+
+
+}
+WB{
+    text-align: center;
+
+}
+
+
+input[type = "submit"] {
+    height: 50px;
+    width: 100px;
+    background-color: floralwhite;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+}
+
